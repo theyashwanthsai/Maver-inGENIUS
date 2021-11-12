@@ -3,12 +3,17 @@ Maver web application project for inGENIUS hackathon.
 
 
 
-Team Name: Maver
 
 
 
 
-Team members: Shreya Reddy, Sai Yashwanth
+
+
+
+
+
+![Screenshot 2021-11-12 at 7 39 21 PM](https://user-images.githubusercontent.com/68785131/141480245-f4f007c8-5b05-4589-8c31-4223c3e7f176.png)
+
 
 
 
