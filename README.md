@@ -16,6 +16,56 @@ Maver web application project for inGENIUS hackathon.
 
 
 
+ 
+ 
+ 
+ For many young people, college is their first learn to handle their expenses. However, many students are not adequately prepared to handle their own finances. Common mistakes students make while managing their accounts are : 
+
+1) Not tracking their expenditures
+
+2) Not being able to determine wants vs needs.
+
+3) Overspending without realising.
+
+The existing solution to this problem is the use of pen and paper to track our expenditure. But it is inefficient and time consuming. Common disadvantages of this system are : 
+
+1) Miscalculations
+
+2) Not tracking consistently
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <a href = "https://github.com/Shreyatippireddy">
    <img src = "https://avatars.githubusercontent.com/u/93726938?v=4 = theyashwanthsai/Maver-inGENIUS"/>
