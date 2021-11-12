@@ -2,6 +2,9 @@
 Maver web application project for inGENIUS hackathon.
 
 
+An application for college students to manage and track their expenses.
+
+
 
 
 
