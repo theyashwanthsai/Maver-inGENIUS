@@ -67,8 +67,3 @@ The existing solution to this problem is the use of pen and paper to track our e
 
 
 
-<a href = "https://github.com/Shreyatippireddy">
-   <img src = "https://avatars.githubusercontent.com/u/93726938?v=4 = theyashwanthsai/Maver-inGENIUS"/>
- 
-</a>
-
