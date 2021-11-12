@@ -1,5 +1,7 @@
 # Maver-inGENIUS
 Maver web application project for inGENIUS hackathon.
+Team Name: Maver
+Team members: Shreya Reddy, Sai Yashwanth
 
 
 
