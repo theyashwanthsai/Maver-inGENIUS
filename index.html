@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PES SURVEY FORM</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com"> 
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> 
+<link href="https://fonts.googleapis.com/css2?family=DynaPuff&family=Merriweather:ital,wght@1,300&family=Montserrat&family=Sacramento&display=swap" rel="stylesheet">
+<script>
+    function myF(){
+    alert("Successfully Submitted");
+    }
+</script>
+</head>
+<body>
+    <div class = "pesu">
+        <img src="logoPesu.png" alt="">
+    </div>
+    <h1 class = "title">PES Student Count Information</h1>
+    <div class = "table">
+        <table >
+            <thead>
+                <tr>
+                    <th>Campus</th>
+                    <th>Courses</th>
+                    <th>No of Students</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr >
+                    <td rowspan="2" class =  "campus">RR</td>
+                    <td>Btech</td> 
+                    <td>500</td>
+                    
+                </tr>
+                <tr>
+                    <td>
+                        Mtech
+                    </td>
+                    <td>
+                        150
+                    </td>
+                </tr>
+                <tr >
+                    <td rowspan="2" class =  "campus">EC</td>
+                    <td>Btech</td> 
+                    <td>500</td>
+                    
+                </tr>
+                <tr>
+                        <td>
+                            Mtech
+                        </td>
+                    <td>
+                        150
+                    </td>
+                </tr>
+                <tr><th class = "no" colspan="3">No of students - 1300</th></tr>
+                
+            </tbody>
+            
+        </table>
+    </div>
+    <h2>PES Students Survey Form</h2>
+    <div class = "form">
+        <form action="">
+            <label for="name">NAME</label><br>
+            <input class = "wid" type="text" id="name" name="fna" placeholder="Enter your name" required><br><br>
+
+            <label for="email">EMAIL</label><br>
+            <input class = "widt" type="email" id="email" name="fname" placeholder="Enter your email"><br><br>
+
+            <label for="age">AGE</label><br>
+            <input class = "widt" type="number" id="age" name="fname" placeholder="Enter your age"><br><br>
+
+            <label for="op">Which option best describes you?</label><br>
+            <!-- <input type="radio" id="op" name="fname"><br> -->
+            <select class = "widt" name="op" id="op" required>
+                <option value="select">CSE</option>
+                <option value="select">ECE</option>
+            </select><br><br>
+
+            <label for="min">Will you take up minors?</label><br>
+            <input type="radio" name = "n" id = "min">Yes<br>
+            <input type="radio" name = "n" id = "min">No<br>
+            <input type="radio" name = "n" id = "min">Maybe<br><br>
+
+            <label for="lang">Languages and Frameworks known (check all that apply)</label><br>
+            <input type="checkbox" name="" id="">C <br>
+            <input type="checkbox" name="" id="">JavaScript <br>
+            <input type="checkbox" name="" id="">Python <br>
+            <input type="checkbox" name="" id="">React js <br>
+            <input type="checkbox" name="" id="">Css<br><br>
+
+            <label for="com">Any comments or suggesions</label><br>
+            <!-- <input type="textfield" id="name" name="fna"><br><br>
+             -->
+            <textarea class = "yay" name="com" id="" cols="30" rows="10" placeholder="Enter your comments here"></textarea><br><br>
+            <!-- <input class = "but" type="button" name="" id=""><br><br> -->
+            <!-- <input class = "but" type="button" name="" id=""><br><br> -->
+            <button class = "but" type="button" onclick="myF()">Submit</button>
+            <button class = "but" type="button">Reset</button>
+        </form>
+    </div>
+</body>
+</html>
